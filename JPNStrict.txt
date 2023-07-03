@@ -1,0 +1,10 @@
+payload:
+- '+.dmm.com'
+- '+.square-enix.com'
+- '+.nicovideo.jp'
+- '+.mercari.jp'
+
+
+
+
+
