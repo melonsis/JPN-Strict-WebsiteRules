@@ -5,6 +5,8 @@ payload:
 - '+.conoha.jp'
 - '+.mercari.jp'
 - 'scholar.google.com'
+- '+.dlsite.com'
+
 
 
 
